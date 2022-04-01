@@ -1,0 +1,141 @@
+Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sales,Other_Sales,Global_Sales,Critic_Score,Critic_Count,User_Score,User_Count,Developer,Rating
+World of Warcraft,PC,2004,Role-Playing,Activision,0.08,6.21,0,0,6.29,93,57,7.3,2182,Blizzard Entertainment,T
+Diablo III,PC,2012,Role-Playing,Activision,2.44,2.16,0,0.54,5.14,88,86,4,9629,Blizzard Entertainment,M
+Destiny,XOne,2014,Shooter,Activision,2.14,0.92,0,0.31,3.37,75,11,5.5,1735,"Bungie Software, Bungie",T
+Call of Duty: Ghosts,XOne,2013,Shooter,Activision,1.88,0.77,0,0.27,2.92,78,7,4.3,700,Infinity Ward,M
+Diablo,PC,1996,Role-Playing,Activision,0.01,1.58,0,0,1.59,94,12,8.7,850,Blizzard Entertainment,M
+Doom 3,XB,2005,Shooter,Activision,0.85,0.43,0,0.06,1.34,88,71,7.4,116,Vicarious Visions,M
+Skylanders SWAP Force,X360,2013,Platform,Activision,0.86,0.34,0,0.12,1.32,83,37,5.7,45,Vicarious Visions,E10+
+World of Warcraft: Wrath of the Lich King,PC,2008,Role-Playing,Activision,0.01,0.13,0,1.18,1.32,91,47,7.5,930,Blizzard Entertainment,T
+Overwatch,PC,2016,Shooter,Activision,0.25,0.24,0,0.04,0.53,91,62,6.8,4052,Blizzard Entertainment,T
+Deadpool,PS3,2013,Action,Activision,0.23,0.14,0,0.08,0.45,61,27,7.2,221,High Moon Studios,M
+Deadpool,X360,2013,Action,Activision,0.26,0.13,0,0.04,0.43,62,49,7.4,368,High Moon Studios,M
+Quake 4,X360,2005,Shooter,Activision,0.32,0.02,0,0.03,0.37,75,52,6.7,80,Raven Software,M
+Wolfenstein,PC,2009,Shooter,Activision,0.01,0.03,0,0.01,0.05,74,41,7.3,261,"id Software, Raven Software",M
+Spider-Man: Edge of Time,X360,2011,Action,Activision,0.18,0.05,0,0.02,0.25,57,50,6.8,33,Beenox,T
+Doom,GBA,2001,Shooter,Activision,0.1,0.04,0,0,0.14,81,24,8.5,15,David A. Palmer Productions,T
+World of Warcraft: Warlords of Draenor,PC,2014,Action,Activision Blizzard,0.08,0.36,0,0.03,0.47,87,49,5.9,1154,Blizzard Entertainment,T
+Shin Megami Tensei: Devil Summoner 2 - Raidou Kuzunoha vs. King Abaddon,PS2,2008,Role-Playing,Atlus,0.07,0.05,0,0.02,0.13,79,23,8.7,26,Atlus Co.,M
+Growlanser Generations,PS2,2003,Role-Playing,Atlus,0.06,0.04,0,0.01,0.11,81,19,7.7,19,Career Soft,T
+Trauma Center: Under the Knife 2,DS,2008,Simulation,Atlus,0.1,0,0,0.01,0.11,79,29,8.5,11,Vanguard,T
+River City Ransom EX,GBA,2004,Action,Atlus,0.05,0.02,0,0,0.07,75,21,8.4,7,Million,T
+Double Dragon Advance,GBA,2003,Action,Atlus,0.03,0.01,0,0,0.05,75,21,8.4,5,Million,T
+DemiKids: Light Version,GBA,2002,Role-Playing,Atlus,0.02,0.01,0,0,0.02,62,8,8.3,15,Multimedia Intelligence Transfer,E
+The Elder Scrolls V: Skyrim,PC,2011,Role-Playing,Bethesda Softworks,1.16,2.12,0,0.6,3.88,94,32,8.1,9073,Bethesda Game Studios,M
+The Elder Scrolls Online,XOne,2015,Role-Playing,Bethesda Softworks,0.78,0.38,0,0.12,1.28,77,11,8.4,613,ZeniMax Media,M
+Fallout: New Vegas,PC,2010,Role-Playing,Bethesda Softworks,0.59,0.45,0,0.14,1.17,84,39,8.6,2754,Obsidian Entertainment,M
+The Elder Scrolls Online,PC,2014,Role-Playing,Bethesda Softworks,0.32,0.51,0,0.07,0.9,71,64,5.7,2421,ZeniMax Media,M
+Wolfenstein: The New Order,XOne,2014,Shooter,Bethesda Softworks,0.34,0.28,0,0.06,0.68,79,18,7.8,397,MachineGames,M
+The Evil Within,XOne,2014,Action,Bethesda Softworks,0.35,0.25,0,0.06,0.67,79,24,7.3,430,Tango Gameworks,M
+The Sims 4,PC,2014,Simulation,Electronic Arts,1,1.82,0,0.23,3.05,70,74,3.9,2057,Maxis,T
+Star Wars: The Old Republic,PC,2011,Role-Playing,Electronic Arts,1.58,1.01,0,0.38,2.96,85,73,5.9,2748,"LucasArts, BioWare",T
+Dead to Rights,PS2,2002,Shooter,Electronic Arts,0.67,0.52,0,0.17,1.36,73,20,8.9,36,Namco,M
+Plants vs. Zombies: Garden Warfare,X360,2014,Shooter,Electronic Arts,0.51,0.47,0,0.09,1.08,69,6,7.3,121,PopCap,E10+
+Dead Space 3,PS3,2013,Action,Electronic Arts,0.44,0.36,0,0.16,0.96,76,37,6.4,522,Visceral Games,M
+Gears of War: Ultimate Edition,XOne,2015,Shooter,Microsoft Game Studios,2.61,0.33,0,0.34,3.28,82,74,7.5,563,"Splash Damage, The Coalition",M
+Ryse: Son of Rome,XOne,2013,Action,Microsoft Game Studios,0.83,0.43,0,0.13,1.38,60,77,6.1,1409,Crytek,M
+Gears of War 4,XOne,2016,Shooter,Microsoft Game Studios,0.78,0.44,0,0.12,1.35,84,96,6.2,815,The Coalition,M
+Counter-Strike,XB,2003,Shooter,Microsoft Game Studios,0.85,0.23,0,0.04,1.11,74,38,7.6,51,Valve Software,M
+Fatal Frame II: Crimson Butterfly Director's Cut,XB,2004,Action,Microsoft Game Studios,0.04,0.01,0,0,0.05,84,37,8.3,16,Tecmo,M
+Fallout 4,XOne,2015,Role-Playing,Bethesda Softworks,2.51,1.32,0.01,0.38,4.22,88,39,6.2,1749,Bethesda Game Studios,M
+Dishonored,X360,2012,Action,Bethesda Softworks,1.06,0.5,0.01,0.14,1.71,88,56,7.9,815,Arkane Studios,M
+Brink,X360,2011,Shooter,Bethesda Softworks,0.59,0.35,0.01,0.09,1.03,68,85,5.8,404,Splash Damage,T
+Brink,PS3,2011,Shooter,Bethesda Softworks,0.29,0.32,0.01,0.12,0.73,72,39,5.8,168,Splash Damage,T
+Dragon Age II,X360,2011,Action,Electronic Arts,0.72,0.29,0.01,0.09,1.11,79,75,4.5,2380,BioWare,M
+Dead Rising 3,XOne,2013,Action,Microsoft Game Studios,1.06,0.35,0.01,0.15,1.57,78,69,6.8,908,Capcom Vancouver,M
+Knights in the Nightmare,PSP,2010,Role-Playing,Atlus,0.06,0,0.02,0.01,0.09,75,10,7.7,7,Sting,T
+FIFA Soccer 11,X360,2010,Sports,Electronic Arts,0.71,2.39,0.02,0.4,3.52,88,66,7.5,155,EA Sports,E
+Battlefield 4,X360,2013,Shooter,Electronic Arts,2.15,1.01,0.02,0.31,3.48,79,21,5.6,542,EA DICE,M
+Titanfall,X360,2014,Shooter,Electronic Arts,0.87,0.34,0.02,0.13,1.36,83,21,5.9,371,Bluepoint Games,M
+Mirror's Edge,PS3,2008,Platform,Electronic Arts,0.31,0.58,0.02,0.22,1.13,79,66,7.8,362,EA DICE,T
+Wolfenstein: The New Order,PS4,2014,Shooter,Bethesda Softworks,0.47,0.8,0.03,0.24,1.55,79,73,8.1,1116,MachineGames,M
+Mass Effect 2,X360,2010,Role-Playing,Electronic Arts,1.99,0.81,0.03,0.27,3.1,96,98,8.9,3143,BioWare,M
+Mass Effect 3,X360,2012,Role-Playing,Electronic Arts,1.94,0.84,0.03,0.24,3.04,93,74,5.8,3725,BioWare,M
+Crysis 3,PS3,2013,Shooter,Electronic Arts,0.26,0.42,0.03,0.16,0.87,77,23,6.3,288,Crytek,M
+Halo 5: Guardians,XOne,2015,Shooter,Microsoft Game Studios,2.78,1.27,0.03,0.41,4.48,84,101,6.4,2438,343 Industries,T
+Halo: The Master Chief Collection,XOne,2014,Shooter,Microsoft Game Studios,1.91,1,0.03,0.29,3.23,85,69,7.2,1267,343 Industries,M
+Mass Effect,X360,2007,Role-Playing,Microsoft Game Studios,1.83,0.79,0.03,0.27,2.91,91,74,8.7,1692,BioWare,M
+Gears of War: Judgment,X360,2013,Shooter,Microsoft Game Studios,0.92,0.5,0.03,0.12,1.57,79,81,5.4,779,Epic Games,M
+Fallout: New Vegas,X360,2010,Role-Playing,Bethesda Softworks,2.66,1.03,0.04,0.33,4.05,84,81,8.1,769,Obsidian Entertainment,M
+Titanfall,XOne,2014,Shooter,Electronic Arts,1.84,0.8,0.04,0.27,2.95,86,68,6.4,2658,Respawn Entertainment,M
+Call of Duty: Ghosts,PS4,2013,Shooter,Activision,1.78,1.43,0.05,0.57,3.83,78,49,3.7,1564,Infinity Ward,M
+Stella Glow,3DS,2015,Role-Playing,Atlus,0.16,0.01,0.05,0.02,0.24,79,32,8.7,82,"Image Epoch, Imageepoch",T
+Left 4 Dead 2,X360,2009,Shooter,Electronic Arts,2.67,0.87,0.05,0.38,3.97,89,76,8.6,681,Valve Software,M
+Left 4 Dead,X360,2008,Shooter,Electronic Arts,2.66,0.49,0.05,0.3,3.51,89,67,7.9,1309,Certain Affinity,M
+Titanfall 2,PS4,2016,Shooter,Electronic Arts,0.34,0.25,0.05,0.12,0.75,89,56,8.4,704,Respawn Entertainment,M
+Halo 2,XB,2004,Shooter,Microsoft Game Studios,6.82,1.53,0.05,0.08,8.49,95,91,8.2,1218,Bungie Software,M
+Fable III,X360,2010,Role-Playing,Microsoft Game Studios,3.59,1.08,0.05,0.38,5.1,80,88,6.5,604,Lionhead Studios,M
+Alan Wake,X360,2010,Action,Microsoft Game Studios,0.66,0.5,0.05,0.13,1.33,83,100,8.1,1156,Remedy Entertainment,T
+Hexyz Force,PSP,2009,Role-Playing,Atlus,0.07,0,0.06,0.01,0.14,68,13,7.3,21,Sting,T
+Rage,PS3,2011,Shooter,Bethesda Softworks,0.47,0.58,0.06,0.2,1.31,81,37,6.2,353,id Software,M
+Gears of War 2,X360,2008,Shooter,Microsoft Game Studios,4.15,1.9,0.06,0.64,6.75,93,90,7.7,2739,Epic Games,M
+Fallout 3,PS3,2008,Role-Playing,Bethesda Softworks,2.15,1.13,0.07,0.59,3.94,90,57,8,910,Bethesda Game Studios,M
+Resident Evil 6,X360,2012,Shooter,Capcom,1.12,0.6,0.07,0.16,1.95,67,71,5,1407,Capcom,M
+Gears of War 3,X360,2011,Shooter,Microsoft Game Studios,4.05,1.59,0.07,0.5,6.21,91,96,7.8,1504,Epic Games,M
+Dead Rising,X360,2006,Action,Capcom,1.16,0.64,0.08,0.2,2.08,85,82,7.6,520,Capcom,M
+Devil May Cry 4,X360,2008,Action,Capcom,0.79,0.34,0.08,0.13,1.34,84,61,8,248,Capcom,M
+Street Fighter V,PS4,2016,Fighting,Capcom,0.4,0.28,0.08,0.14,0.9,77,80,3.4,1221,Capcom,T
+Halo: Reach,X360,2010,Shooter,Microsoft Game Studios,7.04,1.95,0.08,0.79,9.86,91,99,7.9,2045,Bungie,M
+Halo: Combat Evolved,XB,2001,Shooter,Microsoft Game Studios,4.98,1.3,0.08,0.07,6.43,97,68,8.6,1283,Bungie Software,M
+Radiant Historia,DS,2010,Role-Playing,Atlus,0.19,0,0.09,0.01,0.29,85,30,9,81,Atlus,E10+
+Fallout 3,X360,2008,Role-Playing,Bethesda Softworks,3.4,0.99,0.09,0.45,4.93,93,84,8.5,1655,Bethesda Game Studios,M
+Dead Rising 2,X360,2010,Action,Capcom,0.75,0.52,0.09,0.12,1.49,79,76,6.9,216,Blue Castle Games,M
+The Elder Scrolls V: Skyrim,X360,2011,Role-Playing,Bethesda Softworks,5.05,2.79,0.1,0.85,8.79,96,89,8.4,3589,Bethesda Game Studios,M
+Fallout: New Vegas,PS3,2010,Role-Playing,Bethesda Softworks,1.52,1.03,0.1,0.46,3.11,82,57,7.8,492,Obsidian Entertainment,M
+James Bond 007: Agent Under Fire,PS2,2001,Shooter,Electronic Arts,1.9,1.13,0.1,0.41,3.53,72,27,7.9,48,EA Redwood Shores,T
+Metroid Prime,GC,2002,Shooter,Nintendo,1.96,0.67,0.1,0.09,2.82,97,70,9.3,747,Retro Studios,T
+The Evil Within,PS4,2014,Action,Bethesda Softworks,0.55,0.86,0.11,0.27,1.79,75,65,7.3,1223,Tango Gameworks,M
+Fable II,X360,2008,Role-Playing,Microsoft Game Studios,2.51,1.24,0.11,0.41,4.27,89,95,6.5,2423,Lionhead Studios,M
+Shin Megami Tensei: Devil Survivor,DS,2009,Role-Playing,Atlus,0.13,0,0.12,0.01,0.26,84,28,8.8,79,Atlus,T
+Shin Megami Tensei: Persona,PSP,2009,Role-Playing,Atlus,0.08,0,0.13,0.01,0.22,78,30,8,47,ITL,T
+Halo 3,X360,2007,Shooter,Microsoft Game Studios,7.97,2.81,0.13,1.21,12.12,94,86,7.8,4100,"Bungie Software, Bungie",M
+Call of Duty: Advanced Warfare,PS4,2014,Shooter,Activision,2.81,3.48,0.14,1.23,7.66,83,39,5.7,1443,Sledgehammer Games,M
+Shin Megami Tensei: Strange Journey,DS,2009,Role-Playing,Atlus,0.13,0,0.14,0.01,0.28,80,26,8.7,69,Atlus,M
+Etrian Odyssey Untold: The Millennium Girl,3DS,2013,Role-Playing,Atlus,0.1,0.01,0.14,0.01,0.26,80,41,8.2,89,Atlus,T
+Overwatch,PS4,2016,Shooter,Activision,0.81,0.85,0.15,0.33,2.14,90,31,6.1,1358,Blizzard Entertainment,T
+Street Fighter IV,X360,2009,Fighting,Capcom,1.82,0.7,0.15,0.26,2.94,93,77,7.3,292,Capcom,T
+Dead Rising 2,PS3,2010,Action,Capcom,0.43,0.56,0.15,0.21,1.36,80,54,6.7,178,Blue Castle Games,M
+Destiny,PS4,2014,Shooter,Activision,2.49,2.07,0.16,0.92,5.64,76,95,6.1,5380,"Bungie Software, Bungie",T
+Etrian Odyssey II: Heroes of Lagaard,DS,2008,Role-Playing,Atlus,0.09,0,0.16,0.01,0.26,82,17,8.9,24,Atlus,E10+
+Battlefield 4,PS4,2013,Shooter,Electronic Arts,1.35,1.55,0.17,0.51,3.59,85,18,6.9,1580,EA DICE,M
+Etrian Odyssey III: The Drowned City,DS,2010,Role-Playing,Atlus,0.12,0,0.19,0.01,0.31,77,23,8,21,Atlus,E10+
+Lost Planet 2,PS3,2010,Shooter,Capcom,0.29,0.33,0.2,0.13,0.95,68,56,6.9,62,Capcom,T
+Battlefield 1,PS4,2016,Shooter,Electronic Arts,1.1,2.15,0.21,0.61,4.08,88,31,8.4,809,EA DICE,M
+Fallout 4,PS4,2015,Role-Playing,Bethesda Softworks,2.53,3.27,0.24,1.13,7.16,87,58,6.5,4228,Bethesda Game Studios,M
+Dead or Alive 3,XB,2001,Fighting,Microsoft Game Studios,1.19,0.29,0.24,0.06,1.77,87,35,8.6,44,Team Ninja,T
+The Elder Scrolls V: Skyrim,PS3,2011,Role-Playing,Bethesda Softworks,2.55,2.6,0.25,1,6.41,92,16,6.4,2527,Bethesda Game Studios,M
+Shin Megami Tensei IV,3DS,2013,Role-Playing,Atlus,0.28,0,0.27,0.03,0.58,83,48,8.3,251,Atlus,M
+Persona 2: Eternal Punishment,PS,2000,Role-Playing,Atlus,0.03,0.02,0.28,0.02,0.35,83,11,8.4,25,Atlus Co.,T
+Devil May Cry 3: Dante's Awakening,PS2,2005,Action,Capcom,0.99,0.63,0.29,0.19,2.09,84,60,9,212,Capcom,M
+Ace Attorney Investigations: Miles Edgeworth,DS,2009,Adventure,Capcom,0.23,0.14,0.3,0.04,0.7,78,51,8.4,79,Capcom,T
+Shin Megami Tensei: Persona 4,PS2,2008,Role-Playing,Atlus,0.34,0.04,0.36,0.08,0.82,90,47,8.9,634,Atlus Co.,M
+Persona 4: Golden,PSV,2012,Role-Playing,Atlus,0.36,0.23,0.38,0.15,1.12,93,61,9.2,1228,Atlus,M
+Phoenix Wright: Ace Attorney,DS,2005,Adventure,Capcom,0.44,0.05,0.39,0.05,0.92,81,53,9.2,203,Capcom,T
+Resident Evil: Outbreak,PS2,2003,Action,Capcom,0.54,0.35,0.46,0.1,1.45,71,40,8.3,94,Capcom,M
+Luigi's Mansion,GC,2001,Action,Nintendo,2.38,0.67,0.46,0.1,3.6,78,34,8.5,161,Nintendo,E
+Devil May Cry 2,PS2,2003,Action,Capcom,0.71,0.58,0.51,0.17,1.97,68,40,6.6,167,Capcom,M
+Onimusha 3: Demon Siege,PS2,2004,Action,Capcom,0.37,0.47,0.54,0.07,1.45,85,53,8.6,73,Capcom,M
+Pikmin,GC,2001,Strategy,Nintendo,0.78,0.25,0.56,0.04,1.63,89,39,8.7,121,Nintendo,E
+The Legend of Zelda: Twilight Princess,Wii,2006,Action,Nintendo,3.74,2.14,0.6,0.68,7.15,95,73,9,1658,Nintendo,T
+Apollo Justice: Ace Attorney,DS,2007,Adventure,Capcom,0.28,0.04,0.64,0.03,0.99,78,48,8.1,84,Capcom,T
+Dragon's Dogma,PS3,2012,Role-Playing,Capcom,0.41,0.44,0.72,0.17,1.74,78,38,8.3,444,Capcom,M
+Professor Layton and the Unwound Future,DS,2008,Puzzle,Nintendo,0.6,1.57,0.82,0.27,3.26,86,62,9.2,111,Level 5,E10+
+Super Mario Sunshine,GC,2002,Platform,Nintendo,4.01,1.26,0.87,0.17,6.31,92,61,8.6,439,Nintendo,E
+Resident Evil 6,PS3,2012,Shooter,Capcom,0.88,0.94,0.88,0.4,3.1,74,34,5.4,1304,Capcom,M
+The Legend of Zelda: The Wind Waker,GC,2002,Action,Nintendo,2.6,0.99,0.89,0.13,4.6,96,80,8.9,968,Nintendo,E
+Grand Theft Auto V,PS3,2013,Action,Take-Two Interactive,7.02,9.09,0.98,3.96,21.04,97,50,8.2,3994,Rockstar North,M
+Super Mario Galaxy 2,Wii,2010,Platform,Nintendo,3.56,2.35,0.98,0.62,7.51,97,87,9.1,1854,Nintendo EAD Tokyo,E
+Animal Crossing,GC,2001,Simulation,Nintendo,1.92,0.16,0.99,0.09,3.15,87,42,8.9,137,Nintendo,E
+Monster Hunter Freedom,PSP,2005,Role-Playing,Capcom,0.24,0.03,1.03,0.04,1.34,71,34,8.6,78,Capcom,T
+Yoshi's Island DS,DS,2006,Platform,Nintendo,1.45,0.07,1.1,0.15,2.76,81,42,7.4,67,Artoon,E
+Luigi's Mansion: Dark Moon,3DS,2013,Action,Nintendo,1.8,1.39,1.11,0.29,4.59,86,74,8.4,458,Next Level Games,E
+Kirby Super Star Ultra,DS,2008,Platform,Nintendo,1.55,0.04,1.19,0.15,2.92,76,40,8.8,76,HAL Labs,E
+Super Mario Galaxy,Wii,2007,Platform,Nintendo,6.06,3.35,1.2,0.74,11.35,97,73,8.9,2147,Nintendo,E
+Super Smash Bros. Melee,GC,2001,Fighting,Nintendo,4.41,1.04,1.39,0.22,7.07,92,38,9.1,568,HAL Labs,T
+Splatoon,WiiU,2015,Shooter,Nintendo,1.54,1.18,1.46,0.26,4.43,81,88,8.5,1184,Nintendo,E10+
+Monster Hunter Freedom 2,PSP,2007,Role-Playing,Capcom,0.37,0.27,1.75,0.18,2.57,72,38,8.7,83,Capcom,T
+Mario Party DS,DS,2007,Misc,Nintendo,4.4,1.85,1.98,0.68,8.91,72,27,7.8,85,Hudson Soft,E
+Pokemon Emerald Version,GBA,2004,Role-Playing,Nintendo,2.57,1.58,2.06,0.21,6.41,76,28,9,222,Game Freak,E
+Pokemon Platinum Version,DS,2008,Role-Playing,Nintendo,2.76,1.72,2.69,0.54,7.72,83,46,8.5,203,Game Freak,E
+Monster Hunter Freedom Unite,PSP,2008,Role-Playing,Capcom,0.47,0.55,4.13,0.34,5.48,81,48,8.7,124,Capcom,T
+Animal Crossing: Wild World,DS,2005,Simulation,Nintendo,2.5,3.45,5.33,0.86,12.13,86,57,8.7,242,Nintendo,E

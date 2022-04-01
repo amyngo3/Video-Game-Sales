@@ -1,0 +1,65 @@
+Art 151 Data Presentation Notes
+Amy Ngo - Presenting on 4/5
+
+4/5 - Monday
+Jose Miguel
+1.) Formula 1 is an open wheel head-to-head racing with 21 races per season and around 23 drivers.
+The Dominant team is Mercedes AMG Petronas and top drive is Lewis Hamilton.
+Youngest driver is Max Verstappen, he joined professional racing at age 17, now 23.
+Jose's knowledge and analysis of the data sounds promising about how the team will be in upcoming games.
+- Do you think other people will improve their rankings in the future? Or will the rankings be about the same based?
+
+Piotr Ramza
+2.) The project is based on the Markov's model using Disney's reviews. The number of stars affects words with a positive or negative meaning.
+The generated review sentences are close to a real structured sentence, which can be seen as a real person giving a review.
+
+4/7 Wednesday
+Nick Huetra
+1.) People can get tapeworms from eating uncooked foods. Tapeworms can live in any environment.
+Really informational but can provide a bit more information about what happens in the cause of death.
+It's good to know how to protect ourselves with helpful information when encountering animals.
+People must be careful outside for any purpose since there's many dangerous things that can hurt or affect humans.
+
+Shalin J Patel
+2.) The circle graphs sizes shows the difference between vaccinated countries.
+The graph of the countries should be aligned so that the audience can see the length differences on total vaccinations.
+The data is presented well in the various data representations and other types of vaccinations data.
+
+Ansar Ahmed
+3.) Basic information on strokes and heart disease is good to know. The pie chart comparision between gender shows a big difference, likely from different types of stress genders face.
+Married people are less likely to have a stroke or heart disease compared to unmarried people.
+
+Qasim R Mir
+4.) Fantasy movie genres are not present in recent years, people are probably redefining what fantasy is. 
+Frozen is labeled as comedy. The most genre type of movies is Horror.
+
+4/12 - Monday
+Neil Chawla
+1.) Approximately 70% of films on Netflix are movies and 30% are TV shows. Main target is focused on mature audiences since there are more mature content than younger audience.
+There are a greater number of movies than TV shows because the trend of what people watch, such as older audience are watching mature content in movies more often than TV shows.
+Young children looking for TV shows which are limited in what they look for.
+
+Kent Paglomotan
+2.) Wii Sports shipped approximately 80 million copies. Nintendo made the most sales.
+Top 10 global sales mostly show sales from Call of Duty.
+Top Japanese sale is Crash Bandicoot because the game was adjusted to appeal Japanese players.
+
+Matt Lange
+3.) Most games in 2020 are towards PC than the Switch, PS4 and other. 
+Most games lean towards third person shooters, it may be because most games are targeting mature audience.
+
+Sam Alammar
+4.) Netflix is worth $162 million. The code takes a genre, then the code takes a color from the Netflix's show/movie poster and generates all of the color palette.
+The 3D object uses the color palette, and the speed depends on the number of colors in the palette.
+
+Manon Marie Thompson
+5.) Data is based on local and national data because there are some inflations and taxes that affected the data.
+The Art Institute of Chicago has the most Chicago Museum Revenues and Assets. Field Museum is second in Assets because of the artifacts the museum has.
+Most people who work in the museums are defined as White.
+
+Vivek Bhatt
+6.) The graphical data on COVID-19's cases and deaths shows a logarithmic shape. 
+The white circles represent healthy people, red circles represent infected people with COVID-19, green circle represents people healed from COVID-19.
+
+Marian Cardenas
+7.)
