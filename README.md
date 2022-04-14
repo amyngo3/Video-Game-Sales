@@ -1,5 +1,4 @@
-# Art 151 - project 3
-  Video Game Sales
+# Art 151 - Video Game Sales (2016)
 
 I used video game sales from 2016 on Kaggle.
 
